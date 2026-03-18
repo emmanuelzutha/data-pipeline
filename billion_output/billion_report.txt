@@ -1,0 +1,12 @@
+============================================================
+BILLION-SCALE DATA ANALYSIS REPORT
+============================================================
+
+Report Generated: 2026-03-18 13:46:49.389937
+Total Rows Analyzed: 1,000,000
+Unique Users: 8,999
+Average Value: $100.02
+Total Value: $100,020,773.51
+
+PERFORMANCE BY LOCATION
+----------------------------------------

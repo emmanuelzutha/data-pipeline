@@ -1,0 +1,86 @@
+{
+  "statistics": {
+    "total_rows": 98186,
+    "unique_users": 8999,
+    "avg_value": 92.72,
+    "median_value": 67.81,
+    "std_value": 83.27,
+    "total_value": 9104220.9,
+    "date_range": {
+      "start": "2026-03-18 13:09:00",
+      "end": "2026-03-18 13:09:59"
+    }
+  },
+  "aggregates": {
+    "by_location": {
+      "DE": {
+        "count": 19515,
+        "mean": 93.04,
+        "sum": 1815671.34
+      },
+      "IN": {
+        "count": 19815,
+        "mean": 92.67,
+        "sum": 1836271.6
+      },
+      "JP": {
+        "count": 19870,
+        "mean": 92.55,
+        "sum": 1838945.01
+      },
+      "UK": {
+        "count": 19495,
+        "mean": 92.99,
+        "sum": 1812871.13
+      },
+      "US": {
+        "count": 19491,
+        "mean": 92.37,
+        "sum": 1800461.83
+      }
+    },
+    "by_action": {
+      "click": {
+        "count": 24589,
+        "mean": 92.77,
+        "sum": 2281142.32
+      },
+      "login": {
+        "count": 24649,
+        "mean": 92.49,
+        "sum": 2279865.36
+      },
+      "purchase": {
+        "count": 24370,
+        "mean": 93.07,
+        "sum": 2268148.38
+      },
+      "view": {
+        "count": 24578,
+        "mean": 92.57,
+        "sum": 2275064.84
+      }
+    },
+    "by_device": {
+      "desktop": {
+        "count": 32758,
+        "mean": 93.28,
+        "sum": 3055721.88
+      },
+      "mobile": {
+        "count": 32735,
+        "mean": 92.54,
+        "sum": 3029206.45
+      },
+      "tablet": {
+        "count": 32693,
+        "mean": 92.35,
+        "sum": 3019292.58
+      }
+    },
+    "by_hour": {
+      "13": 92.72
+    }
+  },
+  "timestamp": "2026-03-18 13:09:51.465403"
+}

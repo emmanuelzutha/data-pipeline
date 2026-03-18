@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-18T12:59:08.134365",
+  "rows": 50000,
+  "columns": [
+    "timestamp",
+    "user_id",
+    "action",
+    "value",
+    "location",
+    "hour",
+    "day_of_week",
+    "is_weekend"
+  ],
+  "missing_values": {
+    "timestamp": 0,
+    "user_id": 0,
+    "action": 0,
+    "value": 0,
+    "location": 0,
+    "hour": 0,
+    "day_of_week": 0,
+    "is_weekend": 0
+  },
+  "statistics": {
+    "timestamp": {
+      "count": 50000,
+      "mean": 

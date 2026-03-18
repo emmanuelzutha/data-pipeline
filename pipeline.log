@@ -1,0 +1,39 @@
+2026-03-18 12:56:34,006 - __main__ - INFO - Pipeline initialized
+2026-03-18 12:56:34,007 - __main__ - INFO - Extracting data from api
+2026-03-18 12:56:34,038 - __main__ - INFO - Extracted 50000 rows
+2026-03-18 12:56:34,038 - __main__ - INFO - Transforming data...
+2026-03-18 12:56:34,082 - __main__ - WARNING - Found 904 outliers in value
+2026-03-18 12:56:34,088 - __main__ - INFO - Transformed data: 50000 rows
+2026-03-18 12:56:34,088 - __main__ - INFO - Aggregating by ['location', 'action']
+2026-03-18 12:56:34,126 - __main__ - INFO - Saving to daily_metrics as parquet
+2026-03-18 12:59:07,480 - __main__ - INFO - Pipeline initialized
+2026-03-18 12:59:07,481 - __main__ - INFO - Extracting data from api
+2026-03-18 12:59:07,516 - __main__ - INFO - Extracted 50000 rows
+2026-03-18 12:59:07,517 - __main__ - INFO - Transforming data...
+2026-03-18 12:59:07,552 - __main__ - WARNING - Found 940 outliers in value
+2026-03-18 12:59:07,557 - __main__ - INFO - Transformed data: 50000 rows
+2026-03-18 12:59:07,557 - __main__ - INFO - Aggregating by ['location', 'action']
+2026-03-18 12:59:07,570 - __main__ - INFO - Saving to daily_metrics as parquet
+2026-03-18 12:59:08,134 - __main__ - INFO - Saved successfully
+2026-03-18 13:05:38,800 - INFO - ==================================================
+2026-03-18 13:05:38,801 - INFO - PIPELINE INITIALIZED
+2026-03-18 13:05:38,801 - INFO - ==================================================
+2026-03-18 13:05:38,994 - INFO -    Memory usage: 5.78 MB
+2026-03-18 13:05:39,072 - INFO -    Final rows: 98,186
+2026-03-18 13:05:39,551 - INFO -    Saved full dataset to output/data_full.csv
+2026-03-18 13:05:39,560 - INFO -    Saved analysis to output/analysis_results.json
+2026-03-18 13:09:50,626 - INFO - ==================================================
+2026-03-18 13:09:50,627 - INFO - PIPELINE INITIALIZED
+2026-03-18 13:09:50,627 - INFO - ==================================================
+2026-03-18 13:09:50,627 - INFO - Generating 100,000 rows of data...
+2026-03-18 13:09:50,999 - INFO - Generated 100,000 rows
+2026-03-18 13:09:51,001 - INFO - Memory usage: 7.68 MB
+2026-03-18 13:09:51,004 - INFO - Cleaning data...
+2026-03-18 13:09:51,061 - INFO - Removed 1814 outliers
+2026-03-18 13:09:51,061 - INFO - Final rows: 98,186
+2026-03-18 13:09:51,062 - INFO - Performing analysis...
+2026-03-18 13:09:51,102 - INFO - Analysis complete
+2026-03-18 13:09:51,102 - INFO - Saving results...
+2026-03-18 13:09:51,464 - INFO - Saved full dataset to output/data_full.csv
+2026-03-18 13:09:51,465 - INFO - Saved analysis to output/analysis_results.json
+2026-03-18 13:09:51,466 - INFO - Saved summary report to output/summary_report.txt

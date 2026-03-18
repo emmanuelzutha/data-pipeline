@@ -1,0 +1,27 @@
+============================================================
+DATA PIPELINE SUMMARY REPORT
+============================================================
+
+Report Generated: 2026-03-18 13:09:51.466166
+Total Rows Processed: 98,186
+Unique Users: 8,999
+Average Value: $92.72
+Median Value: $67.81
+Total Value: $9,104,220.90
+
+----------------------------------------
+PERFORMANCE BY LOCATION
+----------------------------------------
+DE: 19515 transactions, $93.04 avg, $1,815,671.34 total
+IN: 19815 transactions, $92.67 avg, $1,836,271.60 total
+JP: 19870 transactions, $92.55 avg, $1,838,945.01 total
+UK: 19495 transactions, $92.99 avg, $1,812,871.13 total
+US: 19491 transactions, $92.37 avg, $1,800,461.83 total
+
+----------------------------------------
+PERFORMANCE BY ACTION
+----------------------------------------
+click: 24589 transactions, $92.77 avg
+login: 24649 transactions, $92.49 avg
+purchase: 24370 transactions, $93.07 avg
+view: 24578 transactions, $92.57 avg
